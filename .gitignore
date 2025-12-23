@@ -1,0 +1,26 @@
+﻿# Eclipse
+.classpath
+.project
+.settings/
+bin/
+.metadata/
+
+# Compiled Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
